@@ -25,7 +25,7 @@
     "@octokit/core": ">=6"
   },
   "devDependencies": {
-    "@octokit/core": "^6.0.0",
+    "@octokit/core": "^6.1.2",
     "@octokit/tsconfig": "^3.0.0",
     "@types/fetch-mock": "^7.3.1",
     "@types/jest": "^29.0.0",
